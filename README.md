@@ -33,7 +33,7 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-   git clone https://github.com/KirillStepanov2010/photo-gallery-app.git
+   git clone https://github.com/KirillStepanov2010/MiBombo.git
 
 2. Установите зависимости
    npm install
