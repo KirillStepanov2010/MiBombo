@@ -36,7 +36,7 @@
 
 <script setup>
 import { ref } from "vue"
-import { useAlbumsStore } from "../storeS/albumsiD"
+import { useAlbumsStore } from "../stores/albumsId"
 import DarkModeToggler from "./darkModeToggler.vue"
 
 const inputValue = ref("")
